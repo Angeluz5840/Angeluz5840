@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angeluz5840
 - 👀 I’m interested in ...pyhton and java
 - 🌱 I’m currently learning ...networks and databases
-- 💞️ I’m looking to collaborate on ... it danoe just as an apprentice
+- 💞️ I’m looking to collaborate on ... IT danone just as an apprentice
 - 📫 How to reach me ... 5613740686,angel.vargas1@danone.com
 
 <!---
